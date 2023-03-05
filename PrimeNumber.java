@@ -3,6 +3,7 @@ package com.scaler.probsolving;
 public class PrimeNumber {
 
 	public static void main(String[] args) {
+		// Testing
 		int input = 5;
 	}
 	
